@@ -1,4 +1,4 @@
-// 6 ms | 47.8 MB
+// 6 ms | 48.1 MB
 class Solution {
     public int lengthOfLongestSubstring(String s) {
                 int[] lastSeen = new int[128];
