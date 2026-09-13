@@ -1,7 +1,7 @@
 # LeetCodeProblems
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 10 (Easy: 7, Medium: 3, Hard: 0)
+Solved: 11 (Easy: 8, Medium: 3, Hard: 0)
 
 | # | Problem | Difficulty | Topic | Solved | LeetCode |
 |---|---|---|---|---|---|
@@ -9,6 +9,7 @@ Solved: 10 (Easy: 7, Medium: 3, Hard: 0)
 | 3870 | [Count Commas in Range](3870-count-commas-in-range/) | Easy | Math | 2026-09-09 | [Open](https://leetcode.com/problems/count-commas-in-range/) |
 | 3483 | [Unique 3-Digit Even Numbers](3483-unique-3-digit-even-numbers/) | Easy | Array, Hash Table, Recursion, Enumeration | 2026-09-11 | [Open](https://leetcode.com/problems/unique-3-digit-even-numbers/) |
 | 2265 | [Count Nodes Equal to Average of Subtree](2265-count-nodes-equal-to-average-of-subtree/) | Medium | Tree, Depth-First Search, Binary Tree | 2026-09-10 | [Open](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/) |
+| 242 | [Valid Anagram](242-valid-anagram/) | Easy | Hash Table, String, Sorting | 2026-09-13 | [Open](https://leetcode.com/problems/valid-anagram/) |
 | 217 | [Contains Duplicate](217-contains-duplicate/) | Easy | Array, Hash Table, Sorting | 2026-09-13 | [Open](https://leetcode.com/problems/contains-duplicate/) |
 | 125 | [Valid Palindrome](125-valid-palindrome/) | Easy | Two Pointers, String | 2026-09-12 | [Open](https://leetcode.com/problems/valid-palindrome/) |
 | 121 | [Best Time to Buy and Sell Stock](121-best-time-to-buy-and-sell-stock/) | Easy | Array, Dynamic Programming | 2026-09-12 | [Open](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |
